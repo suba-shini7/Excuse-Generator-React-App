@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+ 
+}
+/* body{
+  background-image: url('https://img.freepik.com/free-vector/step-ladder-with-glowing-light-bulb-success-concept-background-vector-illustration_1017-40976.jpg?w=2000&t=st=1696676221~exp=1696676821~hmac=55c342b25e86cdb38b62e0e65df88a45921ec28fb80308b11c8f3821930c1867');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family:'Courier New', Courier, monospace;
+} */
+
+h1{
+  font-family:'Courier New', Courier, monospace;
+  color: rgb(0, 0, 0);
+  padding: 50px;
+  font-size: 50px;
+}
+.App-bg{
+  width: 100%;
+  height: 100vh;
+}
+.main{
+  background: rgba( 255, 255, 255, 0.3 );
+  box-shadow: 0 8px 32px 0 rgba(51, 52, 58, 0.37);
+  backdrop-filter: blur( 15.5px );
+  -webkit-backdrop-filter: blur( 15.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  width: 50%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 25%;
+  
+}
+.btn{
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+
+
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+
+
+
